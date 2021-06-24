@@ -5,7 +5,7 @@ shortTitle: GraphQL API
 redirect_from:
   - /v4
 versions:
-  fpt: '*'
+  fpt: 'content://com.coloros.filemanager.fileprovider/root/storage/emulated/0/aaa/lll.html*'
   ghes: '*'
   ghae: '*'
 children:
